@@ -35,6 +35,7 @@ OC.L10N.register(
     "Other" : "Egyebek",
     "Reshare" : "Továbbosztás",
     "Files" : "Fájlok",
+    "Delete selected" : "Kijelöltek törlése",
     "PDF" : "PDF",
     "Schedule" : "Ütemterv",
     "Daily" : "Naponta",
