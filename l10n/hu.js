@@ -41,6 +41,7 @@ OC.L10N.register(
     "Daily" : "Naponta",
     "Weekly" : "Hetente",
     "Monthly" : "Havonta",
+    "Format" : "Formátum",
     "Save" : "Mentés"
 },
 "nplurals=2; plural=(n != 1);");

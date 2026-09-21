@@ -39,6 +39,7 @@
     "Daily" : "Naponta",
     "Weekly" : "Hetente",
     "Monthly" : "Havonta",
+    "Format" : "Formátum",
     "Save" : "Mentés"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
