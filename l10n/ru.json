@@ -16,8 +16,8 @@
     "Showing _START_ to _END_ of _TOTAL_ entries" : "Показывает запись _START_ to _END_ of _TOTAL_",
     "Showing 0 to 0 of 0 entries" : "Показывать от 0 до 0 из 0 записей",
     "App" : "Приложение",
-    "Item" : "Пункт",
-    "Type" : "Тип",
+    "Item" : "Объект",
+    "Type" : "Тип доступа",
     "Permissions" : "Права",
     "Time" : "Время",
     "Action" : "Действие",
@@ -50,6 +50,14 @@
     "Monthly" : "Ежемесячно",
     "Format" : "Формат",
     "Save" : "Сохранить",
-    "Delete share" : "Удалить ссылку"
+    "Delete share" : "Удалить ссылку",
+    "All Shares" : "Все общие доступы",
+    "New Shares" : "Новые общие доступы",
+    "Export report" : "Экспортировать отчёт",
+    "Show talk shares" : "Показывать общие доступы Talk",
+    "(*) indicates incorrect data. Share should be removed after evaluation." : "(*) указывает на некорректные данные. Общий доступ должен быть удален после проверки.",
+    "Pause reload after deletion" : "Приостановить перезагрузку после удаления",
+    "appId" : "ID приложения",
+    "Initiator" : "Инициатор"
 },"pluralForm" :"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);"
 }
