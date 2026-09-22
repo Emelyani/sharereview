@@ -58,6 +58,11 @@
     "(*) indicates incorrect data. Share should be removed after evaluation." : "(*) указывает на некорректные данные. Общий доступ должен быть удален после проверки.",
     "Pause reload after deletion" : "Приостановить перезагрузку после удаления",
     "appId" : "ID приложения",
-    "Initiator" : "Инициатор"
+    "Initiator" : "Инициатор",
+    "On demand report" : "Отчёт по требованию",
+    "Scheduled report" : "Отчёт по расписанию",
+    "Default folder" : "Папка по умолчанию",
+    "Folder owner" : "Владелец папки",
+    "No share found" : "Общие доступы не найдены"
 },"pluralForm" :"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);"
 }
