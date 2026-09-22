@@ -63,6 +63,7 @@ OCA.ShareReview.Visualization = {
 
         let columnTitles = {
             app: t(APP_ID, 'App'),
+            appId: t(APP_ID, 'appId'),
             object: t(APP_ID, 'Item'),
             initiator: t(APP_ID, 'Initiator'),
             type: t(APP_ID, 'Type'),
